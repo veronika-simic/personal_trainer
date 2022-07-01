@@ -111,7 +111,12 @@ form {
 label {
     color: white;
     font-family: Roboto, serif;
-    font-size: 40%;
+    font-size: 45%;
+    width: 30%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
 }
 button {
     display: block;
@@ -121,6 +126,12 @@ button {
     text-decoration: none;
 }
 
+/* footer */
+
+footer {
+    color: white;
+
+}
 
 
 
