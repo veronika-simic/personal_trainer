@@ -1,0 +1,42 @@
+*, ::before, ::after {
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+/* header */
+
+header {
+    width: 90%;
+    margin: 20px auto;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+h1 {
+    font-size: 60px;
+    font-family: Roboto, serif;
+    font-weight: 800;
+}
+
+.red {
+    color: red
+
+}
+
+img {
+    width: 60%;
+}
+
+
+.training-type {
+    background-color: white;
+    border: 5px solid red;
+}
