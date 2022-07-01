@@ -86,10 +86,33 @@ h3 {
     text-align: center;
 }
 
+.card-1 {
+    background-image: url('');
+}
 
+.card-2 {
+    background-image: url('');
+}
+
+.card-3 {
+    background-image: url('');
+}
 
 .card > h3 {
+    margin: 0;
+    position: absolute;
+    top: 50%;
     text-align: center;
+}
+
+.hidden {
+    display: none;
+}
+.card:hover h3 {
+    display: none;
+}
+.card:hover .hidden {
+    display: block;
 }
 
 /* advice section */
