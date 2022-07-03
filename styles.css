@@ -40,6 +40,27 @@ header {
     color: white;
     display: flex;
     justify-content: space-between;
+    height: 80vh;
+}
+
+nav > ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+nav > ul > li {
+    list-style-type: none;
+}
+
+nav > ul > li > a {
+    text-decoration: none;
+    color: white;
+}
+
+nav > ul > li > a:hover {
+    border-bottom: 2px solid red;
+
 }
 
 h1 {
