@@ -44,6 +44,13 @@ header {
 
 }
 
+.logo {
+    position: absolute;
+    left: 2.5%;
+    width: 10%;
+    height: 15%;
+    background-color: #FFE52D;
+} 
 .decoration {
     width: 45%;
     height: 100%;
