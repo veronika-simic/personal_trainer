@@ -44,26 +44,6 @@ header {
 
 }
 
-.logo {
-    position: absolute;
-    top: 5%;
-    left: 2.5%;
-    width: 5%;
-    height: 10%;
-}
-
-.vertical {
-    width: 10%;
-    height: 90%;
-    background-color: white;    
-}
-
-.horizontal {
-    width: 60%;
-    height: 15%;
-    background-color: white;
-}
-
 
 
 .decoration {
