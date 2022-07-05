@@ -40,6 +40,7 @@ header {
     width: 100%;
     color: white;
     height: 70vh;
+    position: relative;
 
 }
 
@@ -60,9 +61,21 @@ header {
 
 
 h1 {
+    position: absolute;
     font-size: 100%;
+    margin-top: 2%;
+    margin-left: 20%;
+    color: black;
+    z-index: 1;
 }
-
+header > p {
+    font-size: 2rem;
+    position: absolute;
+    margin-left: 15%;
+    z-index: 1;
+    color: black;
+    margin-top: 25%;
+}
 .red {
     color: var(--main-color)
 
