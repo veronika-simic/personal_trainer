@@ -12,7 +12,7 @@
 body {
     background-color: black;
     font-size: 60px;
-    width: 90%;
+    width: 100%;
     margin: 0 auto;
     height: 100vh;
     
@@ -36,37 +36,28 @@ p {
 /* header */
 
 header {
-    margin: 2.5% 0 auto;
+    margin: 0 auto;
     width: 100%;
     color: white;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
     height: 70vh;
-    border-bottom: 20px solid var(--main-color);
 
 }
 
-nav {
-
+.decoration {
+    width: 45%;
+    height: 100%;
+    background-color: white;
+    transform-origin: bottom left;
+    transform: skew(-28deg, 0deg);
+    display: inline-block;
 }
-nav > ul {
-   
-}
+ img {
+    display: inline-block;
+    width: 55%;
+    height: 100%;
+ }
+  
 
-nav > ul > li {
-    list-style-type: none;
-}
-
-nav > ul > li > a {
-    text-decoration: none;
-    color: white;
-}
-
-nav > ul > li > a:hover {
-    border-bottom: 2px solid var(--main-color);
-
-}
 
 h1 {
     font-size: 100%;
@@ -76,14 +67,6 @@ h1 {
     color: var(--main-color)
 
 }
-
-img {
-    height: 80%;
-    margin-right: -20%;
-    align-self: flex-end;
-}
-
-/* border */
 
 /* first section */
 
