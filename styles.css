@@ -46,7 +46,17 @@ header {
 }
 
 .hamburger-menu {
-    
+    position: absolute;
+    width: 5%;
+    height: 5%;
+    margin-left: 2%;
+    margin-top: 2.5%;
+    background-color: #FFE52D;
+    cursor: pointer;
+    -webkit-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    transform: rotate(0deg);
 }
 
 .hamburger-menu span:nth-child(1) {
