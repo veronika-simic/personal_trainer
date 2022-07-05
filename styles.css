@@ -1,5 +1,5 @@
 :root {
---main-color: red;
+--main-color: #FFE52D;
 }
 
 *, ::before, ::after {
@@ -57,8 +57,6 @@ header {
     width: 55%;
     height: 100%;
  }
-  
-
 
 h1 {
     position: absolute;
@@ -74,7 +72,7 @@ header > p {
     margin-left: 15%;
     z-index: 1;
     color: black;
-    margin-top: 25%;
+    margin-top: 20%;
 }
 .red {
     color: var(--main-color)
@@ -85,7 +83,7 @@ header > p {
 
 .training-type {
     background-color: white;
-    border: 5px solid var(--main-color)
+    border: 15px solid var(--main-color)
 }
 
 .training-type > h2 {
@@ -227,6 +225,7 @@ button:hover {
 
 footer {
     color: white;
+
 
 }
 
