@@ -106,6 +106,19 @@ header {
     transform: rotate(45deg);
 }
 
+.hamburger-menu.open span:nth-child(3) {
+    -webkit-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+
+.hamburger-menu.open span:nth-child(4){
+    top: 18px;
+    width: 0%;
+    left: 50%;
+}
+
 .decoration {
     width: 45%;
     height: 100%;
