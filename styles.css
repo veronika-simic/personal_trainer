@@ -1,5 +1,5 @@
 :root {
-  --main-color: #ffe52d;
+  --main-color: #ffe731;
   --secondary-color: white;
 }
 
@@ -263,19 +263,6 @@ article > h3 {
   margin-left: 5%;
 }
 
-/* advice section */
-
-.advice {
-  color: var(--secondary-color);
-  margin: 40px 0 0;
-  height: 300px;
-}
-
-.advice > h2 {
-  position: relative;
-  top: 50%;
-  left: 0%;
-}
 
 form {
   text-align: center;
