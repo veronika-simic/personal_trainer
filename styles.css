@@ -182,10 +182,12 @@ header > p {
 .training-type {
   background-color: var(--secondary-color);
   border: 15px solid var(--main-color);
+  padding-bottom: 5rem;
 }
 
 .training-type > h2 {
-  margin: 55px 0;
+  font-size: 3rem;
+  margin: 5rem 0;
 }
 
 h3 {
