@@ -202,8 +202,8 @@ h3 {
   background-color: black;
   color: var(--secondary-color);
   border-radius: 5%;
-  width: 250px;
-  height: 300px;
+  width: 500px;
+  height: 600px;
   text-align: center;
 }
 
@@ -240,6 +240,7 @@ h3 {
 
 article {
   position: relative;
+  top: 25%;
 }
 
 article > h3 {
@@ -256,6 +257,7 @@ article > h3 {
 .card:hover .hidden {
   display: block;
   font-weight: bold;
+  font-size: 1.5rem;
   text-align: left;
   line-height: 30px;
   width: 90%;
