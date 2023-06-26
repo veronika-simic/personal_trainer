@@ -1,15 +1,23 @@
-# Personal Trainer - Landing page
-Landing page for a personal trainer created with HTML, CSS and JavaScript
+# Project Name
+
+> Personal trainer web page that allows users to sign up for training sessions
 
 ## Table of Contents
-* [General Info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Status](#status)
 
+- [General Info](#general-information)
+- [Technologies Used](#technologies-used)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Setup](#setup)
+- [Usage](#usage)
+- [Project Status](#project-status)
+- [Room for Improvement](#room-for-improvement)
+- [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
 
-## General info
-Personal Trainer Landing page is made to further develop my skills in frontend development especially UI/UX design.
+## General Information
+
+- Personal trainer is a web page that allows users to sign up for training sessions
 
 ## Technologies
 Project is created with:
@@ -20,9 +28,23 @@ Project is created with:
 
 ## Setup
 
+In orded to run this project first clone this repository with following command:
 
-## Status
-Currently in development
+`git clone https://github.com/veronika-simic/personal_trainer.git`
+
+To see the project in browser open up index.html file
+
+## Usage
+
+- Sign up for training sessions
+
+## Project Status
+
+Project is: _finished_
+
+## Contact
+
+Created by [@vera](https://github.com/veronika-simic) - feel free to contact me!sign.
 
 
 

@@ -42,7 +42,7 @@ header {
   margin: 0 auto;
   width: 100%;
   color: white;
-  height: 70vh;
+  height: 80vh;
   position: relative;
 }
 
@@ -156,25 +156,25 @@ header > p {
 /* about */
 
 .about {
-    background: linear-gradient(90deg, black 0%, black 45%, white 45%) ;
-    width: 100%;
-    display: flex;
-    justify-content: space-evenly;
-    padding: 5%;
+  background: linear-gradient(90deg, black 0%, black 45%, white 45%);
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 5%;
 }
 
 .about h2 {
-    text-align: left;
-    color: var(--secondary-color);
-    padding-top: 2%;
-    width: 45%
+  text-align: left;
+  color: var(--secondary-color);
+  padding-top: 2%;
+  width: 45%;
 }
 
 .about p {
-    text-align: left;
-    line-height: 1.5rem;
-    width: 55%;
-
+  font-size: 1.5rem;
+  text-align: left;
+  line-height: 1.5rem;
+  width: 55%;
 }
 
 /* first section */
@@ -289,13 +289,11 @@ article > h3 {
   width: 80%;
 }
 
-.client h3  {
+.client h3 {
   padding-bottom: 5px;
 }
 
-
 /* footer */
-
 
 form {
   text-align: center;
@@ -338,3 +336,5 @@ button:hover {
 footer {
   color: var(--secondary-color);
 }
+
+/* mobile design */
