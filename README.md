@@ -1,6 +1,6 @@
 # Project Name
 
-> Personal trainer web page that allows users to sign up for training sessions
+> Personal trainer web page that allows users to preview training sessions
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@
 
 ## General Information
 
-- Personal trainer is a web page that allows users to sign up for training sessions
+- Personal trainer is a web page that allows users to preview training sessions (not responsive)
 
 ## Technologies
 Project is created with:
@@ -36,7 +36,7 @@ To see the project in browser open up index.html file
 
 ## Usage
 
-- Sign up for training sessions
+- Preview for training sessions
 
 ## Project Status
 
